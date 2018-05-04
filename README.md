@@ -1,5 +1,6 @@
 # What is .NET
-.net is a Free. Cross-platform. Open source developement platform for building all your apps.
+.NET is a free, cross-platform, open source developer platform for building many different types of applications.
+With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, gaming, and IoT.
 # StartCore
 An amazing startup project to showcase the power of .NET Core
 # How to install it
@@ -10,7 +11,7 @@ An amazing startup project to showcase the power of .NET Core
 To create an AwesomeConsole application :
 1) Navigate to the project folder
 2) Run the following commande
-`dotnet new awesomeconsole`
+`dotnet new startcore`
 # Screenshot 
 ![Start dotnet core amazing best top startup project csharp](https://user-images.githubusercontent.com/24621701/39625414-2b8c9fac-4f95-11e8-8d39-6250fa29b6a6.png)
 # Licence
