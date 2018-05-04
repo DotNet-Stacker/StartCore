@@ -12,6 +12,11 @@ To create an AwesomeConsole application :
 1) Navigate to the project folder
 2) Run the following commande
 `dotnet new startcore`
+# Notice
+You can change the Microsoft.AspNetCore.All package version in the .csproj file <br/>
+`<ItemGroup>`<br/>`
+              <PackageReference Include="Microsoft.AspNetCore.All" Version="Your Version" />`<br/>`
+</ItemGroup>`
 # Screenshot 
 ![Start dotnet core amazing best top startup project csharp](https://user-images.githubusercontent.com/24621701/39625414-2b8c9fac-4f95-11e8-8d39-6250fa29b6a6.png)
 # Licence
